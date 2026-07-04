@@ -1,6 +1,6 @@
-# SQL Practice
+# SQL Practice Project
 
-This repository contains my SQL practice while learning Data Analytics.
+This repository contains my SQL learning practice while studying Data Analytics.
 
 ## Topics Covered
 - CREATE TABLE
@@ -11,4 +11,8 @@ This repository contains my SQL practice while learning Data Analytics.
 - COUNT
 - MAX
 
-Learning Journey 🚀
+## Purpose
+To improve my SQL skills and build a strong foundation for Data Analyst roles.
+
+## Author
+Soniya Sharma
